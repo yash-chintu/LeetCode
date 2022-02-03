@@ -1,2 +1,2 @@
 # LeetCode
-Contains solutions to some tricky questions from leetcode
+Contains solutions to some questions from leetcode
